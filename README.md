@@ -10,7 +10,6 @@
 - dun
 - tiqiu
 - whirl
-- klee
 - peng
 - push
 - eihei
